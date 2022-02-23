@@ -7,8 +7,12 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="18" />
+          <option name="caretOffset" value="13" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/Test.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="17" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/New.java" />
         </OpenedFileInfo>
       </list>
     </option>
